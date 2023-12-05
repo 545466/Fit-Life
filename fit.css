@@ -4,7 +4,6 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 .con{
-  position: fixed;
   width: 100%;
 }
 .container{
@@ -473,7 +472,6 @@ footer{
     overflow-x: hidden;
   }
   .con{
-  position: fixed;
   width: 100%;
   }
   nav ul{
